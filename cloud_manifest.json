@@ -8,31 +8,31 @@
     },
     "icon_character": {
       "path": "item_l/character/character_icons.bin",
-      "version": 2
+      "version": 1
     },
     "icon_statistics": {
       "path": "item_l/statistics/statistics_icons.bin",
-      "version": 2
+      "version": 1
     },
     "icon_pool": {
       "path": "item_l/Pool_l/pool_icons.bin",
-      "version": 2
+      "version": 1
     },
     "icon_weaponservant": {
       "path": "item_l/weaponservant/weaponservant_icons.bin",
-      "version": 2
+      "version": 1
     },
     "icon_buff": {
       "path": "item_l/bufficon/buff_icons.bin",
-      "version": 2
+      "version": 1
     },
     "icon_module": {
       "path": "item_l/module/module_icons.bin",
-      "version": 2
+      "version": 1
     },
     "icon_task": {
       "path": "item_l/task_i/task_icons.bin",
-      "version": 2
+      "version": 1
     }
   }
 }
