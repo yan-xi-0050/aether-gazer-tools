@@ -35,7 +35,7 @@
       "version": 1
     },
     "gacha_pool_data": {
-      "path": "config\gacha_pool_data.yx",
+      "path": "config/gacha_pool_data.yx",
       "version": 1
     }
   }
