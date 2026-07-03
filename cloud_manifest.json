@@ -4,35 +4,35 @@
     "character_score_data": {
       "path": "config/character_score_data_20260703.bin",
       "version": 1,
-      "note": "新增xxx修正者数据"
+      "note": "测试更新"
     },
     "icon_character": {
       "path": "item_l/character/character_icons.bin",
-      "version": 3
+      "version": 2
     },
     "icon_statistics": {
       "path": "item_l/statistics/statistics_icons.bin",
-      "version": 1
+      "version": 2
     },
     "icon_pool": {
       "path": "item_l/Pool_l/pool_icons.bin",
-      "version": 1
+      "version": 2
     },
     "icon_weaponservant": {
       "path": "item_l/weaponservant/weaponservant_icons.bin",
-      "version": 1
+      "version": 2
     },
     "icon_buff": {
       "path": "item_l/bufficon/buff_icons.bin",
-      "version": 1
+      "version": 2
     },
     "icon_module": {
       "path": "item_l/module/module_icons.bin",
-      "version": 1
+      "version": 2
     },
     "icon_task": {
       "path": "item_l/task_i/task_icons.bin",
-      "version": 1
+      "version": 2
     }
   }
 }
