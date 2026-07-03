@@ -1,6 +1,11 @@
 {
   "manifest_version": 1,
   "items": {
+    "character_score_data": {
+      "path": "config/character_score_data_v20260703.bin",
+      "version": 1,
+      "note": "新增xxx修正者数据"
+    },
     "icon_character": {
       "path": "item_l/character/character_icons.bin",
       "version": 3
