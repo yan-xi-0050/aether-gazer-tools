@@ -2,36 +2,40 @@
   "manifest_version": 1,
   "items": {
     "character_score_data": {
-      "path": "config/character_score_data_20260703.bin",
+      "path": "config/character_score_data_20260703.yx",
       "version": 1,
       "note": "测试更新"
     },
     "icon_character": {
-      "path": "item_l/character/character_icons.bin",
+      "path": "item_l/character/character_icons.yx",
       "version": 1
     },
     "icon_statistics": {
-      "path": "item_l/statistics/statistics_icons.bin",
+      "path": "item_l/statistics/statistics_icons.yx",
       "version": 1
     },
     "icon_pool": {
-      "path": "item_l/Pool_l/pool_icons.bin",
+      "path": "item_l/Pool_l/pool_icons.yx",
       "version": 1
     },
     "icon_weaponservant": {
-      "path": "item_l/weaponservant/weaponservant_icons.bin",
+      "path": "item_l/weaponservant/weaponservant_icons.yx",
       "version": 1
     },
     "icon_buff": {
-      "path": "item_l/bufficon/buff_icons.bin",
+      "path": "item_l/bufficon/buff_icons.yx",
       "version": 1
     },
     "icon_module": {
-      "path": "item_l/module/module_icons.bin",
+      "path": "item_l/module/module_icons.yx",
       "version": 1
     },
     "icon_task": {
-      "path": "item_l/task_i/task_icons.bin",
+      "path": "item_l/task_i/task_icons.yx",
+      "version": 1
+    },
+    "gacha_pool_data": {
+      "path": "config\gacha_pool_data.yx",
       "version": 1
     }
   }
