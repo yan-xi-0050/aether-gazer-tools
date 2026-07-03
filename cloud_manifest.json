@@ -4,7 +4,7 @@
     "character_score_data": {
       "path": "config/character_score_data_20260703.yx",
       "version": 1,
-      "note": "测试更新"
+      "note": "yx封装测试更新"
     },
     "icon_character": {
       "path": "item_l/character/character_icons.yx",
