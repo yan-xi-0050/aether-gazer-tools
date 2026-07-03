@@ -3,7 +3,7 @@
   "items": {
     "icon_character": {
       "path": "item_l/character/character_icons.bin",
-      "version": 2
+      "version": 3
     },
     "icon_statistics": {
       "path": "item_l/statistics/statistics_icons.bin",
